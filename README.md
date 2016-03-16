@@ -1,7 +1,7 @@
-Xamarin Plus (Zamarin Plus)
+BHH PLUS
 ============
 
-:zap: Advanced Anti Spam and Super Group Manager Bot For Telegram
+:zap: Advanced Anti Spam and Super Group Manager Bot For Telegram based on BHH bot
 
 Bot Commands
 ------------
@@ -188,8 +188,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # After those dependencies, lets install the bot
 cd $HOME
-git clone https://github.com/amirhmz/XamarinPlus.git
-cd XamarinPlus
+git clone https://github.com/amirhmz/bhhplus.git
+cd bhhplus
 git clone --recursive https://github.com/Josepdal/tg.git
 chmod +x ./launch.sh
 ./launch.sh install
@@ -200,17 +200,12 @@ Then, you have to install a bot language like this:
 #install english_lang
 #lang en
 ```
+BHH Plus Developers
+[https://telegram.me/hacker44]
 
-Xamarin Plus Developers
------------------
-
-[![https://telegram.me/AmirDark](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Amir%20Dark-blue.svg)](https://telegram.me/AmirDark) [![https://telegram.me/ShahabDark](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Shahab%20Dark-blue.svg)](https://telegram.me/ShahabDark)
-
-Xamarin Plus Support Channel
+BHH Plus Support Channel
 -----------------------
 
-[![https://telegram.me/DarkTeam](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Dark%20Team-blue.svg)](https://telegram.me/DarkTeam)
+[https://telegram.me/BHH_team]
 
-Contact us
-------------
-You can contact us in groups said before but if you have an issue please [open](https://github.com/amirhmz/XamarinPlus/issues) one.
+
