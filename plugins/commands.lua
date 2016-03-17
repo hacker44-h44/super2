@@ -58,8 +58,8 @@ do
 
     return {
         patterns = {
-            "^#(help)$",
-            "^#(help) (.+)"
+            "^!(help)$",
+            "^!(help) (.+)"
         }, 
         run = run 
     }
